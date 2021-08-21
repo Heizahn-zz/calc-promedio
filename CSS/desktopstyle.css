@@ -1,0 +1,22 @@
+html{
+  background-color: hsl(185, 41%, 84%);
+}
+
+
+.card{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  max-width: 800px;
+  max-height: 550px;
+  border-radius: 2rem;
+  box-shadow: transparent;
+}
+
+
+.output {
+  height: 35rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
